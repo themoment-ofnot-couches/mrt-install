@@ -1,0 +1,1 @@
+copy MRT.exe C:\Windows\System32

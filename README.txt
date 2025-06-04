@@ -1,0 +1,1 @@
+Use the install-norm for normal install, or use the install-port for standalone install.
